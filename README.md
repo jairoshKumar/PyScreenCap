@@ -7,6 +7,5 @@ https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-
 ## Adding a new SSH Key to your GitHub account
 https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
-Esc
-Shift Semi-colan
-:wq
+# Vim commands
+* Save and exit: `Esc + :wq`
