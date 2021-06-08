@@ -4,9 +4,10 @@ import time
 from PIL import Image
 
 webbrowser.open('https://www.youtube.com/results?search_query=cats', new = 2)
-time.sleep(7)
+time.sleep(10)
 
 screenshot = pyautogui.screenshot()
-screenshot.save("Cats.png")
+output_file = "Cats.png"
+screenshot.save(output_file)
 
 screenshot.show()
