@@ -7,5 +7,8 @@ https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-
 ## Adding a new SSH Key to your GitHub account
 https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
+#Packages to install
+* pip install -r requirements.txt
+
 # Vim commands
 * Save and exit: `Esc + :wq`
