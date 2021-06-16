@@ -12,3 +12,8 @@ https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-
 
 # Vim commands
 * Save and exit: `Esc + :wq`
+
+# Run program
+```
+./run.sh
+```
