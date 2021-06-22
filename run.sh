@@ -1,3 +1,4 @@
 echo "Running script"
 date
-python3 cats.py
+python3 cats.py \
+  --query cats
